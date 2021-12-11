@@ -1,5 +1,19 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## About App
+
+It is a modern and responsive Real Estate app built using ReactJs, NextJs, and ChakraUI
+
+## Dependencies Used:
+
+1.	@chakra-ui/react @emotion/react @emotion/styled (Chakra UI pear dependencies)
+2.	axios 
+3.	framer-motion 
+4.	mollify (large numbers into human readable form)
+5.	nprogress (progress bar)
+6.	react-horizontal-scrolling-menu (for images)
+7.	react-icons
+
 ## Getting Started
 
 First, run the development server:
