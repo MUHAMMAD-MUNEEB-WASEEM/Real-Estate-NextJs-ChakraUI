@@ -4,6 +4,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 It is a modern and responsive Real Estate app built using ReactJs, NextJs, and ChakraUI
 
+## App Link
+
+https://realliver.vercel.app/
+
 ## Dependencies Used:
 
 1.	@chakra-ui/react @emotion/react @emotion/styled (Chakra UI pear dependencies)
